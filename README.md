@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![visitor](https://komarev.com/ghpvc/?username=Jeffery-Hsieh)
-- 🔭 I’m currently working on design system
+- 🔭 I’m currently working on Rosetta.ai
 - 🌱 I’m currently learning Storybook
 
 ## Conntect with me
